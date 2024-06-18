@@ -2,7 +2,7 @@
 
 ### :rocket: Introduction
 
-WASP-39 b is an obfuscation service making sure your code is protected from unwanted individuals. Using WASP-39 b guarantees you to make it harder to reverse engineer and modify your code.
+WASP-39 b is an obfuscation service making sure your code is protected from unwanted access. Using WASP-39 b guarantees you to make it harder to reverse engineer and modify your code.
 
 ### :question: About Us
 
